@@ -1,0 +1,222 @@
+[
+  {
+    "stadiumID": 1,
+    "name": "Ralph Wilson Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "capacity": 73079,
+    "playingSurface": "Artificial",
+    "geoLat": 42.773758,
+    "geoLong": -78.786837
+  },
+  {
+    "stadiumID": 2,
+    "name": "Sun Life Stadium",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "country": "USA",
+    "capacity": 76100,
+    "playingSurface": "Grass",
+    "geoLat": 25.957740,
+    "geoLong": -80.238781
+  },
+  {
+    "stadiumID": 3,
+    "name": "MetLife Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "capacity": 82500,
+    "playingSurface": "Artificial",
+    "geoLat": 40.813611,
+    "geoLong": -74.074444
+  },
+  {
+    "stadiumID": 4,
+    "name": "Gillette Stadium",
+    "city": "Foxborough",
+    "state": "MA",
+    "country": "USA",
+    "capacity": 68756,
+    "playingSurface": "Grass",
+    "geoLat": 42.090866,
+    "geoLong": -71.264244
+  },
+  {
+    "stadiumID": 5,
+    "name": "Paul Brown Stadium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "capacity": 65535,
+    "playingSurface": "Artificial",
+    "geoLat": 39.095309,
+    "geoLong": -84.516003
+  },
+  {
+    "stadiumID": 6,
+    "name": "FirstEnergy Stadium",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "capacity": 71516,
+    "playingSurface": "Artificial",
+    "geoLat": 41.505885,
+    "geoLong": -81.699458
+  },
+  {
+    "stadiumID": 7,
+    "name": "M&T Bank Stadium",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "capacity": 71008,
+    "playingSurface": "Artificial",
+    "geoLat": 39.277985,
+    "geoLong": -76.622788
+  },
+  {
+    "stadiumID": 8,
+    "name": "Heinz Field",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "capacity": 65050,
+    "playingSurface": "Grass",
+    "geoLat": 40.446751,
+    "geoLong": -80.015707
+  },
+  {
+    "stadiumID": 9,
+    "name": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "USA",
+    "capacity": 67000,
+    "playingSurface": "Dome",
+    "geoLat": 39.760056,
+    "geoLong": -86.163806
+  },
+  {
+    "stadiumID": 10,
+    "name": "EverBank Field",
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "USA",
+    "capacity": 67246,
+    "playingSurface": "Artificial",
+    "geoLat": 30.323813,
+    "geoLong": -81.637199
+  },
+  {
+    "stadiumID": 11,
+    "name": "Reliant Stadium",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 71054,
+    "playingSurface": "Dome",
+    "geoLat": 33.757614,
+    "geoLong": -84.400972
+  },
+  {
+    "stadiumID": 12,
+    "name": "LP Field",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "capacity": 6914,
+    "playingSurface": "Grass",
+    "geoLat": 36.166441,
+    "geoLong": -86.771253
+  },
+  {
+    "stadiumID": 13,
+    "name": "Sports Authority Field at Mile High",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "capacity": 76125,
+    "playingSurface": "Grass",
+    "geoLat": 39.743936,
+    "geoLong": -105.020097
+  },
+  {
+    "stadiumID": 14,
+    "name": "Qualcomm Stadium",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 70561,
+    "playingSurface": "Grass",
+    "geoLat": 32.783188,
+    "geoLong": -117.119439
+  },
+  {
+    "stadiumID": 15,
+    "name": "Arrowhead Stadium",
+    "city": "Kansas city",
+    "state": "MO",
+    "country": "USA",
+    "capacity": 76416,
+    "playingSurface": "Grass",
+    "geoLat": 39.049002,
+    "geoLong": -94.483864
+  },
+  {
+    "stadiumID": 16,
+    "name": "O.co Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "capacity": 53200,
+    "playingSurface": "Grass",
+    "geoLat": 37.751613,
+    "geoLong": -122.200509
+  },
+  {
+    "stadiumID": 17,
+    "name": "AT&T Stadium",
+    "city": "Arlington",
+    "state": "TX",
+    "country": "USA",
+    "capacity": 80000,
+    "playingSurface": "Dome",
+    "geoLat": 32.747778,
+    "geoLong": -97.092778
+  },
+  {
+    "stadiumID": 18,
+    "name": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "capacity": 68532,
+    "playingSurface": "Grass",
+    "geoLat": 39.900771,
+    "geoLong": -75.167469
+  },
+  {
+    "stadiumID": 19,
+    "name": "FedEx Field",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "capacity": 85000,
+    "playingSurface": "Grass",
+    "geoLat": 38.907652,
+    "geoLong": -76.864479
+  },
+  {
+    "stadiumID": 20,
+    "name": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "capacity": 61500,
+    "playingSurface": "Grass",
+    "geoLat": 41.862320,
+    "geoLong": -87.616699
+  }
+]
